@@ -93,7 +93,3 @@ WhatsApp does not allow bots or unofficial clients on their platform, so this sh
 
 -   https://github.com/pedroslopez/whatsapp-web.js
 -   https://github.com/transitive-bullshit/chatgpt-api
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=askrella/whatsapp-chatgpt&type=Date)](https://star-history.com/#askrella/whatsapp-chatgpt&Date)
