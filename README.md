@@ -82,14 +82,3 @@ This bot uses Puppeteer to run a real instance of Whatsapp Web to avoid getting 
 
 NOTE: We can't guarantee you will not be blocked by using this method, although it works.
 WhatsApp does not allow bots or unofficial clients on their platform, so this shouldn't be considered totally safe.
-
-## Contributors
-
-<a href="https://github.com/askrella/whatsapp-chatgpt/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=askrella/whatsapp-chatgpt" />
-</a>
-
-## Used libraries
-
--   https://github.com/pedroslopez/whatsapp-web.js
--   https://github.com/transitive-bullshit/chatgpt-api
