@@ -6,7 +6,7 @@
 
 This WhatsApp bot uses OpenAI's GPT and DALL-E 2 to respond to user inputs.
 
-<img width="904" alt="Example prompts" src="https://user-images.githubusercontent.com/6507938/219959783-96cac29a-d786-4586-a1fc-4dca827c4344.png">
+![image](https://user-images.githubusercontent.com/95544839/220648896-9d3d170d-2e64-4d43-a4e5-46c73c9c3604.png)
 
 ## Requirements
 
